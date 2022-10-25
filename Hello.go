@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-fmt.Println("KcJude")
+fmt.Print("KcJude")
 
 
 }
